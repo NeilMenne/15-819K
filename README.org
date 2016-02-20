@@ -1,10 +1,11 @@
 [[https://www.cs.cmu.edu/~fp/courses/lp/schedule.html][15-819K Logic Programming]]
 
-| date             | desc                               |
-|------------------+------------------------------------|
-| [2016-02-01 Mon] | read chapter 1, class organization |
-| [2016-02-08 Mon] | read chapter 2, ex 1               |
-| [2016-02-16 Tue] | read ch 3, ex 2                    |
+| date             | reading   | exercises   |
+|------------------+-----------+-------------|
+| [2016-02-01 Mon] | chapter 1 |             |
+| [2016-02-08 Mon] | chapter 2 | 1.2 1.4     |
+| [2016-02-16 Tue] | chapter 3 | 2.3 2.4     |
+| [2016-02-22 Mon] | [[https://www.cs.cmu.edu/~fp/courses/lp/lectures/03-induction.pdf][chapter 3]] | [[https://www.cs.cmu.edu/~fp/courses/lp/assignments.html#ass2][3.4 3.5 3.6]] |
 
 11:30am at the [[https://goo.gl/maps/J2Njp9YvUZM2][OpenTable Office]]
 
@@ -14,3 +15,5 @@ door on the stairs). The outside door is unlocked after 10am.
 [[http://cdn.preterhuman.net/texts/computing/programming/Prolog/The%2520Art%2520of%2520Prolog%2520%25202nd%2520Ed%2520-%2520Leon%2520Sterling%2520,%2520Ehud%2520Shapiro.pdf][The Art of Prolog]], an optional supplementary text.
 
 [[https://cs-chatt.slack.com/][CS Chatt Slack]] #general and, more topically, #logicprogramming
+
+[[https://github.com/NeilMenne/15-819K.git][github]]
