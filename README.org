@@ -1,4 +1,4 @@
-[[https://www.cs.cmu.edu/~fp/courses/lp/schedule.html][15-819K Logic Programming]]
+[[https://www.cs.cmu.edu/~fp/courses/lp/schedule.html][15-819K Logic Programming]], and on [[https://www.youtube.com/playlist?list%3DPLiHLLF-foEew70UJZxDzYwUTf9ObKWVGx][youtube]].
 
 | date             | reading   | exercises   |
 |------------------+-----------+-------------|
