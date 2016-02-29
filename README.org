@@ -5,6 +5,10 @@
 | [2016-02-01 Mon] | read chapter 1, class organization |
 | [2016-02-08 Mon] | read chapter 2, ex 1               |
 | [2016-02-16 Tue] | read ch 3, ex 2                    |
+| [2016-02-22 Mon] | read ch 3, ex 3                    |
+| [2016-02-29 Mon] | read ch 4, 99PP sec. 3             |
+
+99PP refers to [[https://sites.google.com/site/prologsite/prolog-problems][P-99 Ninety-Nine Prolog Problems]]
 
 11:30am at the [[https://goo.gl/maps/J2Njp9YvUZM2][OpenTable Office]]
 
