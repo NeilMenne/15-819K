@@ -27,5 +27,8 @@ elsewhere(X) :- not(ooltewah(X)).
 %% expects a list and determines whether or not that list is also a
 %% set.
 
+set([]).
+set([X|Ys]) :- not(member(X,Ys)), set(Ys).
+
 %% set([a, b, c]). => true/yes
 %% set([a, b, a]). => false/no
