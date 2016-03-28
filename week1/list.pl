@@ -41,7 +41,7 @@ prefix_([X|Xs], [X|Ys]) :- prefix_(Xs, Ys).
 
 % suffix_(Xs, Ys) iff list Xs if a suffix of list Ys
 suffix_(Xs, Xs).
-suffix_(Xs, [Y|Ys]) :- suffix(Xs, Ys).
+suffix_(Xs, [Y|Ys]) :- suffix_(Xs, Ys).
 
 % append_(Xs, Ys, Zs) iff Zs is the result of appending list Ys to list Xs
 append_([], Ys, Ys).
@@ -52,6 +52,7 @@ prefix2(Xs, Ys) :- append_(Xs, _, Ys).
 suffix2(Xs, Ys) :- append_(_, Xs, Ys).
 
 % sublist_(Xs, Ys) iff Xs is a sublist of Ys
+sublist_([], Ys).
 sublist_(Xs, Ys) :- prefix_(Ps, Ys), suffix_(Xs, Ps).
 
 % length_(Xs, N) iff Xs is a list of length N.
